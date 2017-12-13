@@ -26,7 +26,7 @@ module.exports = function(app) {
         var matchPhoto = '';
         var totalDifference = 10000;
 
-        console.log(friends)
+        console.log(friends);
         console.log(newFriend);
         // Loop through all the friend possibilities in the database. 
 
